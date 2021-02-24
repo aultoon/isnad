@@ -1,0 +1,4330 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Letter rdf:about="#item_6681">
+        <z:itemType>instantMessage</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Doğan</foaf:surname>
+                        <foaf:givenName>Yusuf</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <z:recipients>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Şahin</foaf:surname>
+                        <foaf:givenName>Sami</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:recipients>
+        <dc:date>2 Eylül 2019</dc:date>
+        <dc:description>genre: Kısa Mesaj</dc:description>
+        <dc:title>İlahiyat Atıf Dizini hk.</dc:title>
+    </bib:Letter>
+    <rdf:Description rdf:about="#item_6682">
+        <z:itemType>encyclopediaArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>2</prism:volume>
+                <dc:title>Türkiye Diyanet Vakfı İslâm Ansiklopedisi</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Ankara</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>TDV Yayınları</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Akün</foaf:surname>
+                        <foaf:givenName>Ömer Faruk</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>416-417</bib:pages>
+        <dc:date>1989</dc:date>
+        <dc:title>Âlî Mustafa Efendi</dc:title>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://islamansiklopedisi.org.tr/ihsan--iyilik">
+        <z:itemType>encyclopediaArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+               <dc:title>Türkiye Diyanet Vakfı İslâm Ansiklopedisi</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Çağrıcı</foaf:surname>
+                        <foaf:givenName>Mustafa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://islamansiklopedisi.org.tr/ihsan--iyilik</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-07-12</dcterms:dateSubmitted>
+        <dc:title>İhsan</dc:title>
+    </rdf:Description>
+    <rdf:Description rdf:about="#item_6684">
+        <z:itemType>encyclopediaArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>9</prism:volume>
+                <dc:title>The Encyclopaedia of Islam</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Leiden</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Brill</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>İnalcık</foaf:surname>
+                        <foaf:givenName>Halil</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bosworth</foaf:surname>
+                        <foaf:givenName>C.E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>van Donzel</foaf:surname>
+                        <foaf:givenName>E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Heinrichs</foaf:surname>
+                        <foaf:givenName>W.P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lecomte</foaf:surname>
+                        <foaf:givenName>G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <prism:edition>New Edition</prism:edition>
+        <bib:pages>117-118</bib:pages>
+        <dc:date>1997</dc:date>
+        <dc:title>Selīm I</dc:title>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://islamansiklopedisi.org.tr/isnad--hadis">
+        <z:itemType>encyclopediaArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+               <dc:title>Türkiye Diyanet Vakfı İslâm Ansiklopedisi</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Küçük</foaf:surname>
+                        <foaf:givenName>Raşit</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://islamansiklopedisi.org.tr/isnad--hadis</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-04-16</dcterms:dateSubmitted>
+        <dc:title>İsnad</dc:title>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ekaynaklar.mkutup.gov.tr:2097/10.1163/1573-3912_ei3_COM_32621">
+        <z:itemType>encyclopediaArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Book><dc:title>Encyclopaedia of Islam</dc:title></bib:Book>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lowin</foaf:surname>
+                        <foaf:givenName>Shari L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fleet</foaf:surname>
+                        <foaf:givenName>Kate</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Matringe</foaf:surname>
+                        <foaf:givenName>Denis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nawas</foaf:surname>
+                        <foaf:givenName>John</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rowson</foaf:surname>
+                        <foaf:givenName>Everett</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://ekaynaklar.mkutup.gov.tr:2097/10.1163/1573-3912_ei3_COM_32621</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <prism:edition>3. Edisyon</prism:edition>
+        <dcterms:dateSubmitted>2019-07-13</dcterms:dateSubmitted>
+        <dc:title>Isrāʾīliyyāt</dc:title>
+    </rdf:Description>
+    <rdf:Description rdf:about="#item_6687">
+        <z:itemType>encyclopediaArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>23</prism:volume>
+                <dc:title>Türkiye Diyanet Vakfı İslâm Ansiklopedisi</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>İstanbul</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>TDV Yayınları</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yavuz</foaf:surname>
+                        <foaf:givenName>Yusuf Şevki</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>325-328</bib:pages>
+        <dc:date>2001</dc:date>
+        <dc:title>İstidlâl (Kelâm)</dc:title>
+    </rdf:Description>
+    <bib:Article rdf:about="#item_6688">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>12</prism:volume>
+                <prism:number>2</prism:number>
+                <dc:title>Dinbilimleri Akademik Araştırma Dergisi</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ayten</foaf:surname>
+                        <foaf:givenName>Ali</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Göcen</foaf:surname>
+                        <foaf:givenName>Gülüşan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sevinç</foaf:surname>
+                        <foaf:givenName>Kenan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Öztürk</foaf:surname>
+                        <foaf:givenName>Eyyüp E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>45-79</bib:pages>
+        <dc:date>2012</dc:date>
+        <dc:title>Dini Başa Çıkma, Şükür ve Hayat Memnuniyeti İlişkisi: Hastalar, Hasta Yakınları ve Hastane Çalışanları Üzerine Bir Araştırma</dc:title>
+        <z:shortTitle>Dini Başa Çıkma, Şükür ve Hayat Memnuniyeti İlişkisi</z:shortTitle>
+    </bib:Article>
+    <bib:Article rdf:about="#item_6689">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>19</prism:volume>
+                <prism:number>1</prism:number>
+                <dc:title>Cumhuriyet İlahiyat Dergisi</dc:title>
+                <dc:identifier>DOI 10.18505/cuifd.48242</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Çiftci</foaf:surname>
+                        <foaf:givenName>Adem</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>23-46</bib:pages>
+        <dc:date>Haziran 2015</dc:date>
+        <dc:title>İslam Ceza Hukukunda Suça Teşebbüsten Vazgeçme</dc:title>
+        <z:shortTitle>Suça Teşebbüsten Vazgeçme</z:shortTitle>
+    </bib:Article>
+    <bib:Article rdf:about="#item_6690">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>13</prism:volume>
+                <prism:number>20</prism:number>
+                <dc:title>Harran Üniversitesi İlahiyat Fakültesi Dergisi</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ess</foaf:surname>
+                        <foaf:givenName>Josef van</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kasar</foaf:surname>
+                        <foaf:givenName>Veysel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <bib:pages>291-299</bib:pages>
+        <dc:date>2008</dc:date>
+        <dc:title>Mu‘tezile: İslâm’ın Akılcı Yorumu-1</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_6691">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                        <dcterms:alternative>Risâle fi hakkı ebeveyi’r-Resûl</dcterms:alternative>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <prism:number>38</prism:number>
+                <dc:title>Bilimname</dc:title>
+                <dc:identifier>DOI 10.28949/bilimname.592278</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>İbrahim el-Halebî</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>57-81</bib:pages>
+        <dc:date>2019</dc:date>
+        <dc:description>editorial-director: Gömbeyaz || Kadir</dc:description>
+        <dc:title>Ebeveyn-i Resûl Meselesine Özgün Yaklaşımlar: İbrahim el-Halebî’ye (ö. 956/1549) Nispet Edilen Bir Risalenin Neşri ve Analizi</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_6692">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>1</prism:volume>
+                <prism:number>1</prism:number>
+                <dc:title>Oksident</dc:title>
+                <dc:identifier>DOI 10.5281/zenodo.3360748</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hoover</foaf:surname>
+                        <foaf:givenName>Jon</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yücedoğru</foaf:surname>
+                        <foaf:givenName>Zeynep</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <bib:pages>117-143</bib:pages>
+        <dc:date>2019</dc:date>
+        <dc:title>İslâmî Monoteizm ve Teslîs</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_6693">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>9</prism:volume>
+                <prism:number>2</prism:number>
+                <dc:title>Ilahiyat Studies</dc:title>
+                <dc:identifier>DOI 10.12730/13091719.2018.92.182</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kalaycı</foaf:surname>
+                        <foaf:givenName>Mehmet</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eren</foaf:surname>
+                        <foaf:givenName>Muhammet Emin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>249-290</bib:pages>
+        <dc:date>2018</dc:date>
+        <dc:title>Reflection of Qāḍīzādelīs-Khalwatīs Tension on the Islamic Heresiography: Muṣṭafá Ibn Ibrāhīm and is Alphabetical Classifıcation of Sects</dc:title>
+        <z:shortTitle>Reflection of Qāḍīzādelīs-Khalwatīs Tension on the Islamic Heresiography</z:shortTitle>
+    </bib:Article>
+    <bib:Article rdf:about="http://www.nihayet.com/roportaj/imkansiza-yonelmedikce-mumkun-olan-ele-gecmez/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:number>5</prism:number><dc:title>Nihayet Dergisi</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kara</foaf:surname>
+                        <foaf:givenName>İsmail</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.nihayet.com/roportaj/imkansiza-yonelmedikce-mumkun-olan-ele-gecmez/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>34-38</bib:pages>
+        <dc:date>Temmuz 2015</dc:date>
+        <dc:description>interviewer: Barbarosoğlu ||Fatma
+medium: Görüşme Transkripsiyonu</dc:description>
+        <dc:title>İmkânsıza Yönelmedikçe Mümkün Olan Ele Geçmez</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_6695">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>6</prism:volume>
+                <prism:number>2</prism:number>
+                <dc:title>e-makalat</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Şeyh Zindânî</foaf:surname>
+                        <foaf:givenName>Abdülmecid b. Aziz</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>135-150</bib:pages>
+        <dc:date>Güz 2013</dc:date>
+        <dc:description>interviewer: Ümit || Mehmet
+medium: Görüşme Transkripsiyonu</dc:description>
+        <dc:title>Yemen’de Şeyh Zindânî ile Mülakat</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_6696">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                        <dcterms:alternative>et-Tırâzu’l-müzheb</dcterms:alternative>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <prism:volume>2</prism:volume>
+                <prism:number>1</prism:number>
+                <dc:title>Tahkik İslami İlimler Araştırma ve Neşir Dergisi</dc:title>
+                <dc:identifier>DOI 10.5281/zenodo.3475103</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Şuhâvî</foaf:surname>
+                        <foaf:givenName>Bedreddin eş-</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>211-257</bib:pages>
+        <dc:date>Haziran 2019</dc:date>
+        <dc:description>collection-editor: Bayder || Osman</dc:description>
+        <dc:title>Bedreddin eş-Şuhâvî’nin et-Tırâzu’l-müzheb Adlı Eserinin Tahkik ve Tercümesi</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_6697">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>5</prism:volume>
+                <prism:number>3</prism:number>
+                <dc:title>Marife</dc:title>
+                <dc:identifier>DOI 10.5281/zenodo.3343671</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Türcan</foaf:surname>
+                        <foaf:givenName>Galip</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>175-193</bib:pages>
+        <dc:date>2005</dc:date>
+        <dc:title>Kelâm’ın Meşrûiyeti Sorunu: Ehl-i Sünnet Kelâmı ve Olgusal Gerçeklik Arasındaki İlişki</dc:title>
+        <z:shortTitle>Kelâm’ın Meşrûiyeti Sorunu</z:shortTitle>
+    </bib:Article>
+    <bib:Document rdf:about="http://www.resmigazete.gov.tr/eskiler/2019/08/20190806-6.pdf">
+        <z:itemType>case</z:itemType>
+        <dcterms:isPartOf>
+            <bib:CourtReporter>
+               <prism:number>2015/19953</prism:number>
+            </bib:CourtReporter>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>AYM</foaf:surname>
+                        <foaf:givenName>Anayasa Mahkemesi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.resmigazete.gov.tr/eskiler/2019/08/20190806-6.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>authority: AYM</dc:description>
+        <dc:date>26 Haziran 2019</dc:date>
+    </bib:Document>
+    <bib:Document rdf:about="http://www.resmigazete.gov.tr/eskiler/2019/08/ 20190822-4.pdf">
+        <z:itemType>case</z:itemType>
+        <dcterms:isPartOf>
+            <bib:CourtReporter>
+               <prism:number>2019/1204</prism:number>
+            </bib:CourtReporter>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yargıtay</foaf:surname>
+                        <foaf:givenName>Yargıtay 11. Hukuk Dairesi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.resmigazete.gov.tr/eskiler/2019/08/ 20190822-4.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>authority: Yargıtay</dc:description>
+        <dc:date>22 Ağustos 2019</dc:date>
+    </bib:Document>
+    <rdf:Description rdf:about="#item_6700">
+        <z:itemType>document</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>BİM</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <dc:date>Ağustos 2019</dc:date>
+        <dc:subject>
+            <dcterms:LCC>
+               <rdf:value>Seri No. 291, Barkod No. 8695077001153</rdf:value>
+            </dcterms:LCC>
+        </dc:subject>
+        <dc:coverage>İstanbul</dc:coverage>
+        <dc:description>genre: Plastik Ambalaj</dc:description>
+        <dc:title>Kırınkıl Çubuk Kraker 150 gr</dc:title>
+    </rdf:Description>
+    <bib:Letter rdf:about="#item_6701">
+        <z:itemType>email</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Demir</foaf:surname>
+                        <foaf:givenName>Abdullah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <z:recipients>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kaya</foaf:surname>
+                        <foaf:givenName>Emrah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:recipients>
+        <dc:date>2 Eylül 2019</dc:date>
+        <dc:description>genre: E-Posta</dc:description>
+        <dc:title>İSNAD Atıf Sistemi 2. Edisyon Taslağı hk.</dc:title>
+    </bib:Letter>
+    <bib:Manuscript rdf:about="#item_6702">
+        <z:itemType>manuscript</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Copenhagen</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Birgiwī</foaf:surname>
+                        <foaf:givenName>Meḥmed ibn Pīr ʿAlī</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>Cod. Arab. A.C. 5</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:coverage>Danish Collection</dc:coverage>
+        <dc:title>Kitāb al-Ṭarīgah al-Muḥammadīyah</dc:title>
+        <z:shortTitle>al-Ṭarīgah al-Muḥammadīyah</z:shortTitle>
+        <z:numPages>1a-227b</z:numPages>
+        <z:archive>The Royal Library</z:archive>
+    </bib:Manuscript>
+    <bib:Manuscript rdf:about="https://katalog.devletarsivleri.gov.tr">
+        <z:itemType>manuscript</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>BOA</foaf:surname>
+                        <foaf:givenName>Osmanlı Arşivi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://katalog.devletarsivleri.gov.tr</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>No. 16, Gömlek No. 72</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:description>authority: BOA</dc:description>
+        <dc:title>Bâb-ı Âsafî- Âmedî Kalemi [A.(AMD)]</dc:title>
+        <z:shortTitle>A.(AMD)</z:shortTitle>
+    </bib:Manuscript>
+    <bib:Manuscript rdf:about="#item_6704">
+        <z:itemType>manuscript</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>BOA</foaf:surname>
+                        <foaf:givenName>Osmanlı Arşivi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://katalog.devletarsivleri.gov.tr</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>No. 976</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:description>authority: BOA</dc:description>
+        <dc:title>Düvel-i Ecnebiye Belgeleri [A.DVN.DVE]</dc:title>
+        <z:shortTitle>A.DVN.DVE</z:shortTitle>
+    </bib:Manuscript>
+    <bib:Manuscript rdf:about="#item_6705">
+        <z:itemType>manuscript</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>BOA</foaf:surname>
+                        <foaf:givenName>Osmanlı Arşivi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://katalog.devletarsivleri.gov.tr</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>No. 989, Gömlek No. 7</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:description>authority: BOA</dc:description>
+        <dc:title>Mühimme-i Asâkir Defterleri [A.DVNS.ASK.MHM.d]</dc:title>
+        <z:shortTitle>A.DVNS.ASK.MHM.d</z:shortTitle>
+    </bib:Manuscript>
+    <bib:Manuscript rdf:about="#item_6706">
+        <z:itemType>manuscript</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>İstanbul</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Keşşî</foaf:surname>
+                        <foaf:givenName>Ebû Şekûr Muhammed b. Abdüsseyyid es-Sâlimî</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>1153</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:coverage>Şehit Ali Paşa</dc:coverage>
+        <dc:title>et-Temhîd fî beyâni’t-tevḥîd</dc:title>
+        <z:shortTitle>et-Temhîd</z:shortTitle>
+        <z:numPages>1a-217b</z:numPages>
+        <z:archive>Süleymaniye Kütüphanesi</z:archive>
+    </bib:Manuscript>
+    <bib:Manuscript rdf:about="#item_6707">
+        <z:itemType>manuscript</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>İstanbul</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Siğnâkī</foaf:surname>
+                        <foaf:givenName>Hüsâmeddin Hüseyin b. Ali</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>3893</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:coverage>Esad Efendi</dc:coverage>
+        <dc:title>et-Tesdîd fî şerḥi’t-Temhîd li-ḳavâʿidi’t-tevḥîd</dc:title>
+        <z:shortTitle>et-Tesdîd</z:shortTitle>
+        <z:numPages>1a-215a</z:numPages>
+        <z:archive>Süleymaniye Kütüphanesi</z:archive>
+    </bib:Manuscript>
+    <rdf:Description rdf:about="http://isamveri.org">
+        <z:itemType>document</z:itemType>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>http://isamveri.org</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>No. KB: 1-37-130</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:coverage>İstanbul</dc:coverage>
+        <dc:description>genre: Nota Kağıdı</dc:description>
+        <z:libraryCatalog>Kemal Batanay Müzik Arşivi</z:libraryCatalog>
+        <dc:title>Hak’tan Doğarak Gönlüne İmân-ı Mehâbet</dc:title>
+        <z:archive>İSAM Kütüphanesi</z:archive>
+    </rdf:Description>
+    <bib:Manuscript rdf:about="#item_6709">
+        <z:itemType>manuscript</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Bursa</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>473</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:coverage>Orhan Camii</dc:coverage>
+        <dc:title>Kitâbuz’z-zekât ve’l-buyûʿ mine’l-fıkh</dc:title>
+        <z:shortTitle>Kitâbuz’z-zekât ve’l-buyûʿ</z:shortTitle>
+        <z:numPages>1a-272a</z:numPages>
+        <z:archive>Bursa İnebey Yazma Eser Kütüphanesi</z:archive>
+    </bib:Manuscript>
+    <bib:Manuscript rdf:about="http://yazmalar.gov.tr/eser/tefs%C3%AEru-suveril-kuran/4084">
+        <z:itemType>manuscript</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Ankara</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://yazmalar.gov.tr/eser/tefs%C3%AEru-suveril-kuran/4084</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>363/2</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:coverage>Yazmalar</dc:coverage>
+        <dc:title>Tefsîru suveri'l-Kur’ân</dc:title>
+        <z:numPages>48a-72b</z:numPages>
+        <z:archive>Milli Kütüphane</z:archive>
+    </bib:Manuscript>
+    <bib:MotionPicture rdf:about="http://www.imdb.com/title/tt0111161">
+        <z:itemType>film</z:itemType>
+        <z:directors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Darabont</foaf:surname>
+                        <foaf:givenName>Frank</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:directors>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.imdb.com/title/tt0111161</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>1995</dc:date>
+        <dc:title>The Shawshank Redemption [Esaretin Bedeli]</dc:title>
+        <z:shortTitle>The Shawshank Redemption</z:shortTitle>
+        <z:type>Film</z:type>
+    </bib:MotionPicture>
+    <bib:Article rdf:about="https://www.dunya.com">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Newspaper><dc:title>Dünya</dc:title></bib:Newspaper>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aktaş</foaf:surname>
+                        <foaf:givenName>Alaattin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>https://www.dunya.com</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <bib:pages>6</bib:pages>
+        <dc:date>10 Temmuz 2019</dc:date>
+        <dc:title>Faizin düşmesi kimlere yarar?</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.haberturk.com/yazarlar/murat-bardakci/2514553-restorasyon-faaliyetleri-ve-seyh-galibin-sandukasi">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Newspaper><dc:title>Habertürk</dc:title></bib:Newspaper>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bardakçı</foaf:surname>
+                        <foaf:givenName>Murat</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.haberturk.com/yazarlar/murat-bardakci/2514553-restorasyon-faaliyetleri-ve-seyh-galibin-sandukasi</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>20 Ağustos 2019</dc:date>
+        <dc:title>Restorasyon Faaliyetleri ve Şeyh Galib’in Sandukası</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.sabah.com.tr/yazarlar/hanioglu/2018/07/15/15-temmuzu-farkli-kilan-nedir">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Newspaper><dc:title>Sabah</dc:title></bib:Newspaper>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hanioğlu</foaf:surname>
+                        <foaf:givenName>M. Şükrü</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sabah.com.tr/yazarlar/hanioglu/2018/07/15/15-temmuzu-farkli-kilan-nedir</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>8</bib:pages>
+        <dc:date>15 Temmuz 2018</dc:date>
+        <dc:title>15 Temmuz’u Farklı Kılan Nedir?</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="http://www.milliyet.com.tr">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Newspaper><dc:title>Milliyet</dc:title></bib:Newspaper>
+        </dcterms:isPartOf>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.milliyet.com.tr</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1</bib:pages>
+        <dc:date>17 Eylül 1971</dc:date>
+        <dc:title>Yetki Kanunları</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="http://www.diyanetdergi.com/gundem/item/674-sanal-dunya-ve-degisen-toplumsal-bireysel-iliskiler">
+        <z:itemType>magazineArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Periodical>
+                <prism:number>315</prism:number>
+                <dc:title>Diyanet Aylık Dergi</dc:title>
+            </bib:Periodical>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Arslan</foaf:surname>
+                        <foaf:givenName>Mustafa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.diyanetdergi.com/gundem/item/674-sanal-dunya-ve-degisen-toplumsal-bireysel-iliskiler</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>12-30</bib:pages>
+        <dc:date>Mart 2017</dc:date>
+        <dc:title>Sanal Dünya ve Değişen Toplumsal/Bireysel İlişkiler</dc:title>
+    </bib:Article>
+    <bib:Interview rdf:about="https://www.youtube.com/watch?v=8px5eBJHYNE&amp;list=PLCq4ha8CiOukJvXOx3Kp8lC9QoSqLIVjj&amp;index=4">
+        <z:itemType>interview</z:itemType>
+        <z:interviewees>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>İnalcık</foaf:surname>
+                        <foaf:givenName>Halil</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:interviewees>
+        <z:interviewers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ortaylı</foaf:surname>
+                        <foaf:givenName>İlber</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:interviewers>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.youtube.com/watch?v=8px5eBJHYNE&amp;list=PLCq4ha8CiOukJvXOx3Kp8lC9QoSqLIVjj&amp;index=4</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>3 Mart 1985</dc:date>
+        <z:medium>Video Kaydı</z:medium>
+        <dc:title>Fatih Sultan Mehmed</dc:title>
+    </bib:Interview>
+    <bib:Image rdf:about="#item_6718">
+        <z:itemType>map</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>İstanbul</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>İSKİ Yayınları</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:cartographers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Çeçen</foaf:surname>
+                        <foaf:givenName>M. Kazım</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:cartographers>
+        <dc:date>1977</dc:date>
+        <dc:title>I. Bayezid Suyolu Haritaları</dc:title>
+    </bib:Image>
+    <bib:Image rdf:about="https://www.davidrumsey.com">
+        <z:itemType>map</z:itemType>
+        <z:cartographers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>David Rumsey Map Collection</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:cartographers>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.davidrumsey.com</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-09-19</dcterms:dateSubmitted>
+        <dc:title>Istanbul Vilayeti</dc:title>
+    </bib:Image>
+    <bib:Image rdf:about="http://ataturkkitapligi.ibb.gov.tr">
+        <z:itemType>map</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>İstanbul</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Dahiliye Nezâreti Umur-i Mahalliye Vilayet Müdüriyeti</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:cartographers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>DN</foaf:surname>
+                        <foaf:givenName>Dahiliye Nezâreti</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:cartographers>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ataturkkitapligi.ibb.gov.tr</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>No. 23589</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:description>issued: &quot;1329/1913&quot;
+authority: DN</dc:description>
+        <dc:title>Vilayet Yolları Haritasıdır</dc:title>
+        <z:archive>İstanbul Büyükşehir Belediyesi Atatürk Kitaplığı</z:archive>
+    </bib:Image>
+    <bib:Image rdf:about="https://www.google.com/maps">
+        <z:itemType>map</z:itemType>
+        <z:cartographers>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Google</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:cartographers>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.google.com/maps</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-01-12</dcterms:dateSubmitted>
+        <dc:title>Google Maps</dc:title>
+    </bib:Image>
+    <bib:Image rdf:about="https://atlas.harita.gov.tr">
+        <z:itemType>map</z:itemType>
+        <z:cartographers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Harita Genel Müdürlüğü</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:cartographers>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://atlas.harita.gov.tr</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-09-19</dcterms:dateSubmitted>
+        <dc:title>Atlas</dc:title>
+    </bib:Image>
+    <bib:Image rdf:about="#item_6723">
+        <z:itemType>map</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>İstanbul</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Deniz Kuvvetleri Komutanlığı Hidrografi Neşriyatı</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:cartographers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pîrî Reis</foaf:surname>
+                        <foaf:givenName>Muhyiddin b. Hacı Mehmed</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:cartographers>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ataturkkitapligi.ibb.gov.tr</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>1966</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>No. Bel_Osm_B.00038</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:title>Piri Reis Haritası</dc:title>
+        <z:archive>İstanbul Büyükşehir Belediyesi Atatürk Kitaplığı</z:archive>
+    </bib:Image>
+    <bib:Legislation rdf:about="https://kms.kaysis.gov.tr/Home/Goster/33768?AspxAutoDetectCookieSupport=1">
+        <z:itemType>statute</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://kms.kaysis.gov.tr/Home/Goster/33768?AspxAutoDetectCookieSupport=1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-09-03</dcterms:dateSubmitted>
+        <z:code>Resmî Gazete</z:code>
+        <z:codeNumber>7981</z:codeNumber>
+        <dc:date>13.12.1951</dc:date>
+        <prism:number>5846</prism:number>
+        <dc:title>Fikir ve Sanat Eserleri Kanunu</dc:title>
+        <z:shortTitle>FSEK</z:shortTitle>
+    </bib:Legislation>
+    <bib:Legislation rdf:about="http://www.mevzuat.gov.tr/MevzuatMetin/1.5.2547.pdf">
+        <z:itemType>statute</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.mevzuat.gov.tr/MevzuatMetin/1.5.2547.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-09-03</dcterms:dateSubmitted>
+        <z:code>Resmî Gazete</z:code>
+        <z:codeNumber>17506</z:codeNumber>
+        <dc:date>6 Kasım 1981</dc:date>
+        <prism:number>2547</prism:number>
+        <dc:title>Yükseköğretim Kanunu</dc:title>
+        <z:shortTitle>YK</z:shortTitle>
+    </bib:Legislation>
+    <bib:Legislation rdf:about="https://www.ankara.edu.tr/wp-content/uploads/sites/6/2015/01/etik-davranış-ilkeleri.pdf">
+        <z:itemType>statute</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ankara.edu.tr/wp-content/uploads/sites/6/2015/01/etik-davranış-ilkeleri.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>publisher-place: Türkiye
+authority: Yükseköğretim Kurulu</dc:description>
+        <dcterms:dateSubmitted>2019-07-12</dcterms:dateSubmitted>
+        <dc:date>2014</dc:date>
+        <dc:title>Yükseköğretim Kurumları Etik Davranış İlkeleri</dc:title>
+        <z:shortTitle>YKEDİ</z:shortTitle>
+    </bib:Legislation>
+    <bib:Legislation rdf:about="https://www.yok.gov.tr/Documents/Kurumsal/mevzuat/YayınEtiğiYönergesi_140318.pdf">
+        <z:itemType>statute</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.yok.gov.tr/Documents/Kurumsal/mevzuat/YayınEtiğiYönergesi_140318.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>publisher-place: Türkiye
+authority: Yükseköğretim Kurulu</dc:description>
+        <dcterms:dateSubmitted>2019-07-12</dcterms:dateSubmitted>
+        <dc:date>2016</dc:date>
+        <dc:title>Yükseköğretim Kurulu Bilimsel Araştırma ve Yayın Etiği Yönergesi</dc:title>
+        <z:shortTitle>YKBAYEY</z:shortTitle>
+    </bib:Legislation>
+    <bib:Legislation rdf:about="https://eur-lex.europa.eu/eli/dec/2017/1002/oj">
+        <z:itemType>statute</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://eur-lex.europa.eu/eli/dec/2017/1002/oj</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-09-03</dcterms:dateSubmitted>
+        <z:code>Official Journal of the European Union</z:code>
+        <z:codeNumber>L 152/1</z:codeNumber>
+        <dc:date>15 June 2017</dc:date>
+        <dc:title>Commission Decision (EU) 2017/1002 of 7 June 2017 on the proposed citizens' initiative entitled Stop extremism.</dc:title>
+        <z:shortTitle>Stop extremism</z:shortTitle>
+    </bib:Legislation>
+    <bib:Legislation rdf:about="http://www.resmigazete.gov.tr/eskiler/2018/04/20180415-3.htm">
+        <z:itemType>statute</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.resmigazete.gov.tr/eskiler/2018/04/20180415-3.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-09-03</dcterms:dateSubmitted>
+        <z:code>Resmî Gazete</z:code>
+        <z:codeNumber>30392</z:codeNumber>
+        <dc:date>15 Nisan 2018</dc:date>
+        <dc:title>Doçentlik Yönetmeliği</dc:title>
+        <z:shortTitle>DY</z:shortTitle>
+    </bib:Legislation>
+    <bib:Book rdf:about="#item_6730">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Beyrut</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>y.y.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ahmed b. Hanbel</foaf:surname>
+                        <foaf:givenName>Ebû Abdillâh Ahmed b. Muhammed b. Hanbel eş-Şeybânî</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1405/1985</dc:date>
+        <dc:description>editorial-director: Ebû Hâcir Muhammed Saîd Besyûnî
+issued: &quot;1405/1985&quot;</dc:description>
+        <dc:title>el-Müsned</dc:title>
+        <z:shortTitle>el-Müsned</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6731">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>İstanbul</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Fey Vakfı</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Ahmed Cevdet Paşa</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1995</dc:date>
+        <dc:description>reviewed-author: Ural || İbrahim
+reviewed-author: Özcan || Salih</dc:description>
+        <dc:title>Sadeleştirilmiş Mecelle</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6732">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Chicago</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Henry Regnery Company</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aquinas</foaf:surname>
+                        <foaf:givenName>Thomas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roman</foaf:surname>
+                        <foaf:givenName>John P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <dc:date>1961</dc:date>
+        <z:numberOfVolumes>2</z:numberOfVolumes>
+        <dc:title>Commentary on the Metaphysics of Aristotle</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:0-472-06042-2">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Ann Arbor, Michigan, USA</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>The University of Michigan Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Aristoteles</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hope</foaf:surname>
+                        <foaf:givenName>Richard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <dc:identifier>ISBN 0-472-06042-2</dc:identifier>
+        <dc:date>1960</dc:date>
+        <dc:title>Metaphysics</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6734">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>İstanbul</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Sosyal Yayınlar</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Aristoteles</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Arslan</foaf:surname>
+                        <foaf:givenName>Ahmet</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <dc:date>Kasım 1996</dc:date>
+        <dc:title>Metafizik</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6735">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>İstanbul</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>İstanbul Fetih Cemiyeti</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barkan</foaf:surname>
+                        <foaf:givenName>Ömer Lütfi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ayverdi</foaf:surname>
+                        <foaf:givenName>Ekrem Hakkı</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <prism:edition>2</prism:edition>
+        <dc:date>1973</dc:date>
+        <dc:title>İstanbul Vakıfları Tahrir Defteri 953 Tarihli</dc:title>
+        <z:shortTitle>İstanbul Vakıfları Tahrir Defteri</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6736">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>b.y.</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Dâru Tavki’n-Necât</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Buhârî</foaf:surname>
+                        <foaf:givenName>Ebû Abdillâh Muhammed b. İsmail el-</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <prism:edition>2</prism:edition>
+        <dc:date>1422/2001</dc:date>
+        <dc:description>editorial-director: Muhammed Züheyr b. Nasr
+issued: &quot;1422/2001&quot;</dc:description>
+        <z:numberOfVolumes>8</z:numberOfVolumes>
+        <dc:title>el-Câmiʿu’ṣ-ṣaḥîḥ</dc:title>
+        <z:shortTitle>Buhârî</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6737">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Ankara</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Türk Tarih Kurumu Yayınları</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dvornik</foaf:surname>
+                        <foaf:givenName>Francis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aydın</foaf:surname>
+                        <foaf:givenName>Mehmet</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <dc:date>1990</dc:date>
+        <dc:title>Konsiller Tarihi İznik’ten II. Vatikan’a</dc:title>
+        <z:shortTitle>Konsiller Tarihi</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6738">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Mahwah, NJ</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>L. Erlbaum Associates</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eisen</foaf:surname>
+                        <foaf:givenName>Mitchell L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Quas</foaf:surname>
+                        <foaf:givenName>Jodi A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Goodman</foaf:surname>
+                        <foaf:givenName>Gail S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2002</dc:date>
+        <dc:title>Memory and Suggestibility in the Forensic Interview</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6739">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>İstanbul</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Kitap Yayınevi</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Faroqhi</foaf:surname>
+                        <foaf:givenName>Suraiya</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aytuna</foaf:surname>
+                        <foaf:givenName>Fethi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <prism:volume>3</prism:volume>
+        <prism:edition>2</prism:edition>
+        <dc:date>2011</dc:date>
+        <z:numberOfVolumes>3</z:numberOfVolumes>
+        <dc:title>Türkiye Tarihi 1603-1839</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-975-24-8514-3">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>İstanbul</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Zeytinburnu Belediyesi Kültür Yayınları</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Furat</foaf:surname>
+                        <foaf:givenName>Ahmet Hamdi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yorulmaz</foaf:surname>
+                        <foaf:givenName>Nilüfer Kalkan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Arı</foaf:surname>
+                        <foaf:givenName>Osman Sacid</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:identifier>ISBN 978-975-24-8514-3</dc:identifier>
+        <dc:date>2018</dc:date>
+        <z:numberOfVolumes>2</z:numberOfVolumes>
+        <dc:title>Sahn-ı Semân’dan Dârülfünûn’a Osmanlı’da İlim ve Fikir Dünyası (Âlimler, Müesseseler ve Fikrî Eserler)-XVIII. Yüzyıl</dc:title>
+        <z:shortTitle>Sahn-ı Semân’dan Dârülfünûn’a Osmanlı’da İlim ve Fikir Dünyası</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6741">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Kahire</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>y.y.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>İmam Mâlik</foaf:surname>
+                        <foaf:givenName>Ebû Abdillâh Mâlik b. Enes el-Asbahî</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1382/1962</dc:date>
+        <dc:description>editorial-director: Abdüllatîf  || Abdüvehhâb
+issued: &quot;1382/1962&quot;</dc:description>
+        <dc:title>el-Muvaṭṭaʾ</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6742">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Ankara</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Türk Tarih Kurumu</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>İnan</foaf:surname>
+                        <foaf:givenName>Afet</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <prism:edition>2</prism:edition>
+        <dc:date>2018</dc:date>
+        <dc:title>Piri Reis'in Hayatı ve Eserleri</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6743">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Ankara</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Türk Tarih Kurumu Yayınları</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>İnan</foaf:surname>
+                        <foaf:givenName>Arı</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Parmaksızoğlu</foaf:surname>
+                        <foaf:givenName>İsmet</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2018</dc:date>
+        <dc:title>Düşünceleriyle Atatürk</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-975-05-1831-7">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>İstanbul</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>İletişim Yayınları</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kaynar</foaf:surname>
+                        <foaf:givenName>Mete Kaan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:identifier>ISBN 978-975-05-1831-7</dc:identifier>
+        <dc:date>2015</dc:date>
+        <dc:title>Türkiye’nin 1950’li Yılları</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6745">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>İstanbul</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>İnsan Yayınları</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mahmud</foaf:surname>
+                        <foaf:givenName>Abdülhalim</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eryarsoy</foaf:surname>
+                        <foaf:givenName>M. Beşir</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <dc:date>2005</dc:date>
+        <dc:title>Muhâsibî Hayatı Eserleri Fikirleri</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6746">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Kahire</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>y.y.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Müslim</foaf:surname>
+                        <foaf:givenName>Ebü’l-Hüseyn Müslim b. el-Haccâc</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1374-75/1955-56</dc:date>
+        <dc:description>editorial-director: Muhammed Fuâd Abdülbâkī
+issued: &quot;1374-75/1955-56&quot;</dc:description>
+        <dc:title>el-Câmiʿu’ṣ-ṣaḥîḥ</dc:title>
+        <z:shortTitle>Müslim</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6747">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Tahran</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Çâp-i Rengîn</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Müşâr</foaf:surname>
+                        <foaf:givenName>Hanbâbâ</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <prism:edition>2</prism:edition>
+        <dc:date>1965</dc:date>
+        <dc:title>Fihrist-i kitâbhâ-yı çâpî-i Arabî</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6748">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>London</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>al-Furqan Islamic Heritage Foundation</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roper</foaf:surname>
+                        <foaf:givenName>Geoffrey</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <prism:volume>4</prism:volume>
+        <dc:description>issued: &quot;1991-1994&quot;</dc:description>
+        <z:numberOfVolumes>4</z:numberOfVolumes>
+        <dc:title>World Survey of Islamic Manuscripts</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6749">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Beyrut</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>el-Ma‘hedü’l-Almânî li’l-Ebhâsi’l-Şarkiyye</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saffâr</foaf:surname>
+                        <foaf:givenName>Ebû İshâk İbrâhim ez-Zâhid es-</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <z:seriesEditors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brodersen</foaf:surname>
+                        <foaf:givenName>Angelika</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:seriesEditors>
+        <prism:volume>2</prism:volume>
+        <dc:description>issued: &quot;1432/2011&quot;</dc:description>
+        <z:numberOfVolumes>2</z:numberOfVolumes>
+        <dc:title>Telḫîṣü’l-edille li-ḳavâʿidi’t-tevḥîd</dc:title>
+        <z:shortTitle>Telḫîṣü’l-edille</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6750">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Leiden</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Brill</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sezgin</foaf:surname>
+                        <foaf:givenName>Fuat</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <prism:volume>1</prism:volume>
+        <dc:description>issued:&quot;1967-2015&quot;</dc:description>
+        <z:numberOfVolumes>17</z:numberOfVolumes>
+        <dc:title>Geschichte des arabischen Schrifttums</dc:title>
+        <z:shortTitle>GAS</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="http://www.kulturvarliklari.gov.tr/Eklenti/38967,amisos-mozaigi.pdf">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Kültür ve Turizm Bakanlığı Yayınları</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Şahin</foaf:surname>
+                        <foaf:givenName>Derya</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.kulturvarliklari.gov.tr/Eklenti/38967,amisos-mozaigi.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2004</dc:date>
+        <dc:description>medium: PDF</dc:description>
+        <dc:title>Amisos Mozaiği</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6752">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Timaş Yayınları</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Şenler</foaf:surname>
+                        <foaf:givenName>Şule Yüksel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2016</dc:date>
+        <dc:description>medium: ePub</dc:description>
+        <dc:title>Huzur Sokağı</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6753">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Kahire</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Dâru’l-Kütübi’l-Hadîse</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Taşköprizâde Ahmed Efendi</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <prism:volume>2</prism:volume>
+        <prism:edition>3</prism:edition>
+        <dc:date>1968</dc:date>
+        <dc:description>editorial-director: Ebü’n-Nûr || Abdülvehhâb
+editorial-director: Bekrî || Kâmil Kâmil</dc:description>
+        <z:numberOfVolumes>3</z:numberOfVolumes>
+        <dc:title>Miftâḥu’s-saʿâde ve miṣbâḥu’s-siyâde fî mevżûʿâti’l-ʿulûm</dc:title>
+        <z:shortTitle>Miftâḥu’s-saʿâde</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6754">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Kahire</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Mektebetü’l-Külliyyâti’l-Ezheriyye</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Teftâzânî</foaf:surname>
+                        <foaf:givenName>Sa‘deddîn</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1408/1988</dc:date>
+        <dc:description>editorial-director: es-Sekkā || Ahmed Hicâzî
+issued: &quot;1408/1988&quot;</dc:description>
+        <dc:title>Şerḥu’l-ʿAḳāʾidi’n-Nesefiyye</dc:title>
+        <z:shortTitle>Şerḥu’l-ʿAḳāʾid</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="https://www.fihrist.org.uk/about">
+        <z:itemType>book</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>TF</foaf:surname>
+                        <foaf:givenName>The Fihrist</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.fihrist.org.uk/about</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>authority: TF</dc:description>
+        <dcterms:dateSubmitted>2019-09-13</dcterms:dateSubmitted>
+        <dc:title>Union Catalogue of Manuscripts from the Islamicate World</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6756">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>İstanbul</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>MÜ İlâhiyat Fakültesi Vakfı Yayınları</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Topaloğlu</foaf:surname>
+                        <foaf:givenName>Bekir</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yavuz</foaf:surname>
+                        <foaf:givenName>Y. Şevki</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Çelebi</foaf:surname>
+                        <foaf:givenName>İlyas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1998</dc:date>
+        <dc:title>İslam’da İnanç Esasları</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="http://yazmalar.gov.tr">
+        <z:itemType>book</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>TYEKB</foaf:surname>
+                        <foaf:givenName>Türkiye Yazma Eserler Kurumu Başkanlığı</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://yazmalar.gov.tr</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>authority: TYEKB</dc:description>
+        <dcterms:dateSubmitted>2019-09-12</dcterms:dateSubmitted>
+        <dc:title>Yazma Eserler Portalı</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6758">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Kahire</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Dâru’l-Hilâl</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zeydân</foaf:surname>
+                        <foaf:givenName>Yûsuf</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2004</dc:date>
+        <dc:title>el-Mahtûtâtü’l-elfiyye</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6759">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Ankara</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>İşaret Yayınları</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Muhammed Esed</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Koytak</foaf:surname>
+                        <foaf:givenName>Cahit</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ertürk</foaf:surname>
+                        <foaf:givenName>Ahmet</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <dc:date>2002</dc:date>
+        <dc:title>Kur’an Mesajı: Meal-Tefsir</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6760">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>İstanbul</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Kitabı Mukaddes Şirketi</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <prism:edition>2</prism:edition>
+        <dc:date>2003</dc:date>
+        <dc:title>Kitabı Mukaddes</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6761">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Ankara</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Diyanet İşleri Başkanlığı Yayınları</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Altuntaş</foaf:surname>
+                        <foaf:givenName>Halil</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Şahin</foaf:surname>
+                        <foaf:givenName>Muzaffer</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <prism:edition>3</prism:edition>
+        <dc:date>2009</dc:date>
+        <dc:title>Kur’ân-ı Kerîm Meâli</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="http://www.kadisicilleri.org/index.php">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>İstanbul</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>İSAM Yayınları</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.kadisicilleri.org/index.php</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2011</dc:date>
+        <dc:description>director: Ayşe Seyyide Adıgüzel
+director: Zeynep Trabzonlu</dc:description>
+        <dc:title>İstanbul Kadı Sicilleri Eyüb (Havâss-ı Refîa) Mahkemesi 49 Numaralı Sicil (1054/1644)</dc:title>
+        <z:shortTitle>İstanbul Kadı Sicilleri Eyüb Mahkemesi 49 Numaralı Sicil</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6763">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>İstanbul</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>İSAM Yayınları</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.kadisicilleri.org/index.php</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2012</dc:date>
+        <dc:description>director: Fuat Recep
+director: Salih Kahriman</dc:description>
+        <dc:title>Galata Mahkemesi 90 Numaralı Sicil (1073-1074/1663)</dc:title>
+        <z:shortTitle>Galata Mahkemesi 90 Numaralı Sicil</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6764">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Ankara</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Adalet Yayınevi</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <prism:edition>2</prism:edition>
+        <dc:date>2014</dc:date>
+        <z:numberOfVolumes>2</z:numberOfVolumes>
+        <dc:title>İş Kanunları ve İlgili Mevzuatı</dc:title>
+        <z:shortTitle>İş Kanunları</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6765">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Amman</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Müessesetü Âli’l-Beyt li’l-Fikri’l-İslâmî</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <prism:volume>11</prism:volume>
+        <dc:description>issued: &quot;1999-2014&quot;</dc:description>
+        <z:numberOfVolumes>12</z:numberOfVolumes>
+        <dc:title>el-Fihrisü’ş-şâmil li’t-türâsi’l-Arabiyyi’l-İslâmiyyi’l-mahtût: el-fıkh ve usûluhû</dc:title>
+        <z:shortTitle>el-Fihrisü’ş-şâmil</z:shortTitle>
+    </bib:Book>
+    <bib:Manuscript rdf:about="https://kasif.mkutup.gov.tr/SonucDetay.aspx?MakId=857602">
+        <z:itemType>manuscript</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://kasif.mkutup.gov.tr/SonucDetay.aspx?MakId=857602</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>No. 06 Mil Yz C 39/3</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:description>issued: &quot;1334-1336&quot;</dc:description>
+        <dc:title>Kayseri Sancağı Şer'îye Sicil Defteri (1334-1336)</dc:title>
+        <z:shortTitle>Kayseri Sancağı Şer'îye Sicil Defteri</z:shortTitle>
+        <z:archive>Milli Kütüphane</z:archive>
+    </bib:Manuscript>
+    <bib:Book rdf:about="https://www.kitabimukaddes.com">
+        <z:itemType>book</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.kitabimukaddes.com</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-07-12</dcterms:dateSubmitted>
+        <dc:title>Kitab-ı Mukaddes</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="https://kuran.diyanet.gov.tr">
+        <z:itemType>book</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://kuran.diyanet.gov.tr</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-04-16</dcterms:dateSubmitted>
+        <dc:title>Kur’ân Yolu</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6769">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Beyrut</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>y.y.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <prism:volume>1</prism:volume>
+        <dc:description>issued: &quot;1376-1377/1957&quot;
+editorial-director: Bustânî  || Butrus el-</dc:description>
+        <z:numberOfVolumes>4</z:numberOfVolumes>
+        <dc:title>Resāʾilü  İḫvāni’ṣ-Ṣafā  ve  ḫullāni’l-vefāʾ</dc:title>
+        <z:shortTitle>Resāʾilü İḫvāni’ṣ-Ṣafā</z:shortTitle>
+    </bib:Book>
+    <bib:BookSection rdf:about="#item_6770">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Book><dc:title>Sözüm Söz</dc:title></bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>İstanbul</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Profil Yayıncılık</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barbarosoğlu</foaf:surname>
+                        <foaf:givenName>Fatma Karabıyık</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>81-84</bib:pages>
+        <dc:date>2012</dc:date>
+        <dc:description>interviewer: Kökçe || Halime</dc:description>
+        <dc:title>Nefs-i Emmareye Hitap Eden Herşey Reyting Rekoru Kırar</dc:title>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="#item_6771">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+               <dc:title>Anthropology and Global Counterinsurgency</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Chicago</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>University of Chicago Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kelly</foaf:surname>
+                        <foaf:givenName>John D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jauregui</foaf:surname>
+                        <foaf:givenName>Beatrice</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mitchell</foaf:surname>
+                        <foaf:givenName>Sean T.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Walton</foaf:surname>
+                        <foaf:givenName>Jeremy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kelly</foaf:surname>
+                        <foaf:givenName>John D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>67-83</bib:pages>
+        <dc:date>2010</dc:date>
+        <dc:title>Seeing Red: Mao Fetishism, Pax Americana and the Moral Economy of War</dc:title>
+        <z:shortTitle>Seeing Red</z:shortTitle>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="#item_6772">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>1</prism:volume>
+                <dc:title>Telḫîṣü’l-edille li-ḳavâʿidi’t-tevḥîd</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Kahire</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Dâru’s-Selâm</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mahmud</foaf:surname>
+                        <foaf:givenName>Hişam İbrahim</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>5-44</bib:pages>
+        <dc:description>issued: &quot;1431/2010&quot;
+original-author: Saffâr || Ebû İshâk İbrâhim ez-Zâhid es-</dc:description>
+        <dc:title>Mukaddime</dc:title>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="#item_6773">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Book><dc:title>İmam Mâturîdî ve Mâturidilik</dc:title></bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Ankara</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Kitâbiyât Yayınları</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rudolph</foaf:surname>
+                        <foaf:givenName>Ulrich</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dere</foaf:surname>
+                        <foaf:givenName>Ali</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <bib:pages>295-304</bib:pages>
+        <dc:date>2003</dc:date>
+        <dc:description>director: Sönmez Kutlu</dc:description>
+        <dc:title>Mâtürîdîliğin Ortaya Çıkışı</dc:title>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="#item_6774">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+               <dc:title>Bir Nev-York Rüyası Bye Bye Türkçe</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>İstanbul</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Bilim - Gönül Yayınları</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sinanoğlu</foaf:surname>
+                        <foaf:givenName>Oktay</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <prism:edition>54</prism:edition>
+        <dc:date>2011</dc:date>
+        <dc:description>interviewer: Hıncal || Sinan</dc:description>
+        <dc:title>Yabancı Dille Eğitime Neden Bu Kadar Karşısınız?</dc:title>
+    </bib:BookSection>
+    <rdf:Description rdf:about="#item_6775">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>1</prism:volume>
+                <dc:title>IV. Uluslararası Şeyh Şa'ban-ı Velî Sempozyumu</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Kastamonu</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Kastamonu Üniversitesi Yayınları</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Demir</foaf:surname>
+                        <foaf:givenName>Abdullah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Çuhadar</foaf:surname>
+                        <foaf:givenName>Cengiz</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aykaç</foaf:surname>
+                        <foaf:givenName>Mustafa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Koçak</foaf:surname>
+                        <foaf:givenName>Yusuf</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:pages>643-658</bib:pages>
+        <dc:date>2017</dc:date>
+        <dc:title>Farklı Ebû Hanîfe Tasavvurları: Fakih ve Mütekellim Hanefîler Örneği</dc:title>
+    </rdf:Description>
+    <rdf:Description rdf:about="#item_6776">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Uluslararası Ahmet Yesevi’den Günümüze İnsanlığa Yön Veren Türk Büyükleri Sempozyumu Bildirileri</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Ankara</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Türk Kültürü Araştırmaları Kurumu</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Uyanık</foaf:surname>
+                        <foaf:givenName>Osman</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nasrattınoğlu</foaf:surname>
+                        <foaf:givenName>İrfan Ünver</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:pages>5-43</bib:pages>
+        <dc:date>2009</dc:date>
+        <dc:title>Yusuf Has Hacib’in Gök Bilimine Katkıları</dc:title>
+    </rdf:Description>
+    <rdf:Description rdf:about="#item_6777">
+        <z:itemType>document</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Öğrenci 1</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>20 Mart 2019</dc:date>
+        <dc:description>genre: Sınav Kağıdı</dc:description>
+        <z:libraryCatalog>Öğretici 1</z:libraryCatalog>
+        <dc:title>İç Tasarıma Giriş Dersi Vize Sınavı</dc:title>
+        <z:archive>Sivas Cumhuriyet Üniversitesi, Mimarlık Fakültesi</z:archive>
+    </rdf:Description>
+    <rdf:Description rdf:about="#item_6778">
+        <z:itemType>document</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Öğrenci 2</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>12 Nisan 2019</dc:date>
+        <dc:description>genre: Sınav Kağıdı</dc:description>
+        <z:libraryCatalog>Öğretici 2</z:libraryCatalog>
+        <dc:title>Uluslararası İlişkiler-I Dersi Final Sınavı</dc:title>
+        <z:archive>Selçuk Üniversitesi, İktisadi İdari Bilimler Fakültesi</z:archive>
+    </rdf:Description>
+    <rdf:Description rdf:about="#item_6779">
+        <z:itemType>document</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Öğrenci 3</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>10 Ekim 2018</dc:date>
+        <dc:description>genre: Sınav Kağıdı</dc:description>
+        <z:libraryCatalog>Öğretici 3</z:libraryCatalog>
+        <dc:title>Türkçe Dersi Ara Sınav</dc:title>
+        <z:archive>Ankara Üniversitesi, Eğitim Fakültesi</z:archive>
+    </rdf:Description>
+    <bib:Patent rdf:about="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2014011125&amp;tab=PCTBIBLIO&amp;_cid=P22-K0LCW3-92000-1">
+        <z:itemType>patent</z:itemType>
+        <z:inventors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fişek</foaf:surname>
+                        <foaf:givenName>Mehmet</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:inventors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2014011125&amp;tab=PCTBIBLIO&amp;_cid=P22-K0LCW3-92000-1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <prism:number>WO2014/011125</prism:number>
+        <dc:date>16 Ocak 2014</dc:date>
+        <z:legalStatus>Patent</z:legalStatus>
+        <dc:title>Chair For Performing The Rituel Prayers of Islam to People Having Physical Illnesses</dc:title>
+        <z:issuingAuthority>World Intellectual Property Organization</z:issuingAuthority>
+    </bib:Patent>
+    <bib:Patent rdf:about="https://www.turkpatent.gov.tr/TURKPATENT">
+        <z:itemType>patent</z:itemType>
+        <z:inventors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kaya</foaf:surname>
+                        <foaf:givenName>Adem</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:inventors>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.turkpatent.gov.tr/TURKPATENT</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <prism:number>2019/07502</prism:number>
+        <dc:date>17 Mayıs 2019</dc:date>
+        <z:legalStatus>Patent</z:legalStatus>
+        <dc:title>Eğitim Dokümanları İçin İçerik Sınıflandırma Sistemi ve Yöntemi</dc:title>
+        <z:issuingAuthority>Türk Patent ve Marka Kurumu</z:issuingAuthority>
+    </bib:Patent>
+    <bib:Report rdf:about="http://www.tasam.org/Files/PDF/Raporlar/yemen _raporu.pdf_b7e9f548-3946-4f3d-ac14-b8448ef6b8eb.pdf">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>TASAM</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aydıntepe</foaf:surname>
+                        <foaf:givenName>Mustafa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Artokça</foaf:surname>
+                        <foaf:givenName>İzzettin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.tasam.org/Files/PDF/Raporlar/yemen _raporu.pdf_b7e9f548-3946-4f3d-ac14-b8448ef6b8eb.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2018</dc:date>
+        <dc:title>Yemen Raporu</dc:title>
+    </bib:Report>
+    <bib:Report rdf:about="https://www.bddk.org.tr/bultenaylik">
+        <z:itemType>report</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>BDDK</foaf:surname>
+                        <foaf:givenName>Bankacılık Düzenleme ve Denetleme Kurumu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.bddk.org.tr/bultenaylik</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>Haziran 2019</dc:date>
+        <dc:description>authority: BDDK</dc:description>
+        <dc:title>Aylık Bankacılık Sektörü Verileri</dc:title>
+    </bib:Report>
+    <bib:Report rdf:about="#item_6784">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Ankara</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Diyanet İşleri Yayınları</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>DİYKB</foaf:surname>
+                        <foaf:givenName>Din İşleri Yüksek Kurulu Başkanlığı</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2017</dc:date>
+        <dc:description>authority: DİYKB</dc:description>
+        <dc:title>Kendi Dilinden FETÖ Örgütlü Bir Din İstismarı</dc:title>
+    </bib:Report>
+    <bib:Report rdf:about="https://ms.hmb.gov.tr/uploads/2019/07/2019-Haziran-Aylık-Bütçe-Bülteni.pdf">
+        <z:itemType>report</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>HMB</foaf:surname>
+                        <foaf:givenName>Hazine ve Maliye Bakanlığı</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ms.hmb.gov.tr/uploads/2019/07/2019-Haziran-Aylık-Bütçe-Bülteni.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>Haziran 2019</dc:date>
+        <dc:description>authority: HMB</dc:description>
+        <dc:title>Aylık Bütçe Bülteni</dc:title>
+    </bib:Report>
+    <bib:Report rdf:about="https://www.tbmm.gov.tr/sirasayi/donem26/yil01/ss442.pdf">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Ankara</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>TBMM</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>MAK</foaf:surname>
+                        <foaf:givenName>Meclis Araştırması Komisyonu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tbmm.gov.tr/sirasayi/donem26/yil01/ss442.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2016</dc:date>
+        <dc:description>authority: MAK</dc:description>
+        <dc:title>Başta Cinsel İstismar Olmak Üzere Çocuklara Yönelik Her Türlü İstismar Olaylarının Araştırılarak Alınması Gereken Önlemlerin Belirlenmesi Amacıyla Kurulan Meclis Araştırması Komisyonu Raporu</dc:title>
+    </bib:Report>
+    <bib:Report rdf:about="https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Istatistikler/Faiz+Istatistikleri/Bankalarca+Acilan+Kredi">
+        <z:itemType>report</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>TCMB</foaf:surname>
+                        <foaf:givenName>Türkiye Cumhuriyet Merkez Bankası</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Istatistikler/Faiz+Istatistikleri/Bankalarca+Acilan+Kredi</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>16 Ağustos 2019</dc:date>
+        <dc:description>authority: TCMB</dc:description>
+        <dc:title>Bankalarca Açılan Kredilere Uygulanan Ağırlıklı Ortalama Faiz Oranları</dc:title>
+    </bib:Report>
+    <bib:Book rdf:about="#item_6788">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:identifier>TS OIC/SMIIC 2/T1</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Türkiye</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Türk Standardları Enstitüsü</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>TSE</foaf:surname>
+                        <foaf:givenName>Türk Standardları Enstitüsü</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:rights>authority: TSE</dc:rights>
+        <dc:description>issued: &quot;Kabul 5 Haziran 2012&quot;</dc:description>
+        <z:libraryCatalog>K</z:libraryCatalog>
+        <dc:title>Helal Belgelendirmesi Yapan Kuruluşlar İçin Kılavuz</dc:title>
+    </bib:Book>
+    <bib:Report rdf:about="http://www.tuik.gov.tr/PreTablo.do?alt_id=1024">
+        <z:itemType>report</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>TÜİK</foaf:surname>
+                        <foaf:givenName>Türkiye İstatistik Kurumu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.tuik.gov.tr/PreTablo.do?alt_id=1024</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>Haziran 2019</dc:date>
+        <dc:description>authority: TÜİK</dc:description>
+        <dc:title>Sanayi Üretim Endeksi</dc:title>
+    </bib:Report>
+    <bib:Illustration rdf:about="#item_6790">
+        <z:itemType>artwork</z:itemType>
+        <z:artists>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Direnoğlu</foaf:surname>
+                        <foaf:givenName>Şefik</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:artists>
+        <dc:date>2003</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>No. 000511</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:coverage>Ankara</dc:coverage>
+        <z:medium>Yağlı Boya</z:medium>
+        <dc:title>Alparslan Portresi</dc:title>
+        <z:archive>Milli Kütüphane</z:archive>
+    </bib:Illustration>
+    <bib:Illustration rdf:about="https://lccn.loc.gov/2003663274">
+        <z:itemType>artwork</z:itemType>
+        <z:artists>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fréres</foaf:surname>
+                        <foaf:givenName>Abdullah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:artists>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://lccn.loc.gov/2003663274</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>No. LOT 9528/12</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:coverage>Washington</dc:coverage>
+        <dc:description>issued: &quot;1880-1893&quot;</dc:description>
+        <z:medium>Fotoğraf</z:medium>
+        <z:libraryCatalog>Abdul-Hamid II Collection</z:libraryCatalog>
+        <dc:title>Istanbul walls</dc:title>
+        <z:archive>Library of Congress</z:archive>
+    </bib:Illustration>
+    <bib:Illustration rdf:about="https://dijital-kutuphane.mkutup.gov.tr/tr">
+        <z:itemType>artwork</z:itemType>
+        <z:artists>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Hayali Küçük Ali</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:artists>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://dijital-kutuphane.mkutup.gov.tr/tr</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>1957</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>No. 000116</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:coverage>Ankara</dc:coverage>
+        <z:medium>Tasvir</z:medium>
+        <dc:title>Abdal</dc:title>
+        <z:archive>Milli Kütüphane</z:archive>
+    </bib:Illustration>
+    <bib:Illustration rdf:about="#item_6793">
+        <z:itemType>artwork</z:itemType>
+        <z:artists>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Hoca Ali Rıza</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:artists>
+        <dc:date>1911</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>No. 000311</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:coverage>Ankara</dc:coverage>
+        <z:medium>Karakalem</z:medium>
+        <dc:title>Bursa Çekirge’de Sultan Murat Hüdavendigâr Camii</dc:title>
+        <z:archive>Milli Kütüphane</z:archive>
+    </bib:Illustration>
+    <rdf:Description rdf:about="https://www.aa.com.tr/tr/pg/foto-galeri/mersindeki-yumuktepe-hoyugunde-kazi-calismalari-suruyor/13">
+        <z:itemType>document</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Anadolu Ajansı</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pancar</foaf:surname>
+                        <foaf:givenName>Sezgin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.aa.com.tr/tr/pg/foto-galeri/mersindeki-yumuktepe-hoyugunde-kazi-calismalari-suruyor/13</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2019</dc:date>
+        <dc:description>genre: Fotoğraf</dc:description>
+        <dcterms:dateSubmitted>2019-04-04</dcterms:dateSubmitted>
+        <dc:title>Mersin'deki Yumuktepe Höyüğü'nde Kazı Çalışmaları Sürüyor</dc:title>
+    </rdf:Description>
+    <bib:Illustration rdf:about="#item_6795">
+        <z:itemType>artwork</z:itemType>
+        <dc:date>1982</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>No. 1982 AFİŞ 52</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:coverage>Ankara</dc:coverage>
+        <z:medium>Afiş</z:medium>
+        <dc:title>Ahşap 82 ve El Sanatları Fuarı 15-27 Temmuz</dc:title>
+        <z:archive>Milli Kütüphane</z:archive>
+    </bib:Illustration>
+    <bib:Illustration rdf:about="http://www.tiem.gov.tr">
+        <z:itemType>artwork</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.tiem.gov.tr</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>17-18. yüzyıl</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>No. 420</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:coverage>İstanbul</dc:coverage>
+        <z:medium>Halı</z:medium>
+        <z:libraryCatalog>Halı Koleksiyonu</z:libraryCatalog>
+        <dc:title>Halı Seccade</dc:title>
+        <z:archive>Türk ve İslâm Eserleri Müzesi</z:archive>
+    </bib:Illustration>
+    <bib:Illustration rdf:about="http://www.sadberkhanimmuzesi.org.tr">
+        <z:itemType>artwork</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.sadberkhanimmuzesi.org.tr</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>19. yüzyıl</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>No. 120</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:coverage>İstanbul</dc:coverage>
+        <z:medium>Porselen</z:medium>
+        <z:libraryCatalog>Türk-İslam Koleksiyonu</z:libraryCatalog>
+        <dc:title>Kapaklı Sahan</dc:title>
+        <z:archive>Vehbi Koç Vakfı Sadberk Hanım Müzesi</z:archive>
+    </bib:Illustration>
+    <bib:Illustration rdf:about="#item_6798">
+        <z:itemType>artwork</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.sadberkhanimmuzesi.org.tr</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>20. yüzyıl</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>No. 18138</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:coverage>İstanbul</dc:coverage>
+        <z:medium>Ahşap</z:medium>
+        <z:libraryCatalog>Türk-İslam Koleksiyonu</z:libraryCatalog>
+        <dc:title>Ud</dc:title>
+        <z:archive>Vehbi Koç Vakfı Sadberk Hanım Müzesi</z:archive>
+    </bib:Illustration>
+    <bib:Recording rdf:about="#item_6799">
+        <z:itemType>audioRecording</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dcterms:alternative>Seher Demir Özel Arşivi</dcterms:alternative>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <z:performers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Biçer</foaf:surname>
+                        <foaf:givenName>İsmail</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:performers>
+        <dc:title>Bakara Sûresi</dc:title>
+    </bib:Recording>
+    <bib:Recording rdf:about="https://rateyourmusic.com/release/album/michael-jackson/invincible-10">
+        <z:itemType>audioRecording</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dcterms:alternative>Invincible</dcterms:alternative>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <z:performers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jackson</foaf:surname>
+                        <foaf:givenName>Michael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:performers>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://rateyourmusic.com/release/album/michael-jackson/invincible-10</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2001</dc:date>
+        <dcterms:dateSubmitted>2018-07-12</dcterms:dateSubmitted>
+        <dc:title>Break of Dawn</dc:title>
+    </bib:Recording>
+    <bib:Recording rdf:about="#item_6801">
+        <z:itemType>audioRecording</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dcterms:alternative>Lâ Mekân</dcterms:alternative>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <z:performers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Koca</foaf:surname>
+                        <foaf:givenName>Fatih</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:performers>
+        <dc:date>2016</dc:date>
+        <dc:title>Hak Bir Gönül Verdi Bana</dc:title>
+    </bib:Recording>
+    <bib:Recording rdf:about="https://en.islamway.net/collection/10935/al-mushaf-al-mujawwad">
+        <z:itemType>audioRecording</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dcterms:alternative>al-Mushaf al-Mujawwad</dcterms:alternative>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <z:performers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Naina</foaf:surname>
+                        <foaf:givenName>Ahmed</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:performers>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://en.islamway.net/collection/10935/al-mushaf-al-mujawwad</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>1987</dc:date>
+        <dcterms:dateSubmitted>2018-07-14</dcterms:dateSubmitted>
+        <dc:title>Sûrat Al-Fatihah</dc:title>
+    </bib:Recording>
+    <bib:Recording rdf:about="https://kasif.mkutup.gov.tr/SonucDetay.aspx?MakId=59031">
+        <z:itemType>audioRecording</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dcterms:alternative>Gönül Plak</dcterms:alternative>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <z:performers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Şener</foaf:surname>
+                        <foaf:givenName>Taner</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:performers>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://kasif.mkutup.gov.tr/SonucDetay.aspx?MakId=59031</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>1970</dc:date>
+        <dcterms:dateSubmitted>2018-07-18</dcterms:dateSubmitted>
+        <dc:title>Derman Kâr Eylemez</dc:title>
+    </bib:Recording>
+    <rdf:Description rdf:about="#item_6804">
+        <z:itemType>dictionaryEntry</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>2</prism:volume>
+                <dc:title>el-Muʿcemü’l-müfehres li-elfâẓi’l-Ḳurʾâni’l-Kerîm</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Kahire-Beyrut</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>y.y.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Abdülbâkī</foaf:surname>
+                        <foaf:givenName>Muhammed Fuâd</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:description>issued: &quot;1364/1945&quot;</dc:description>
+        <dc:title>ecl</dc:title>
+    </rdf:Description>
+    <rdf:Description rdf:about="#item_6805">
+        <z:itemType>dictionaryEntry</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Book><dc:title>Türkçe Sözlük</dc:title></bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Ankara</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Türk Dil Kurumu</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Akalın</foaf:surname>
+                        <foaf:givenName>Şükrü Haluk</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Toparlı</foaf:surname>
+                        <foaf:givenName>Recep</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Argunşah</foaf:surname>
+                        <foaf:givenName>Mustafa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Demir</foaf:surname>
+                        <foaf:givenName>Nurettin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Özyetgin</foaf:surname>
+                        <foaf:givenName>Ayşe Melek</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zülfikar</foaf:surname>
+                        <foaf:givenName>Hamza</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tezcan Aksu</foaf:surname>
+                        <foaf:givenName>Belgin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <prism:edition>11</prism:edition>
+        <dc:date>2011</dc:date>
+        <dc:title>isnat</dc:title>
+    </rdf:Description>
+    <rdf:Description rdf:about="#item_6806">
+        <z:itemType>dictionaryEntry</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Book><dc:title>Felsefe Sözlüğü</dc:title></bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>İstanbul</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Paradigma Yayınları</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cevizci</foaf:surname>
+                        <foaf:givenName>Ahmet</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <prism:edition>3</prism:edition>
+        <dc:date>1999</dc:date>
+        <dc:title>Ahlâk Yasası</dc:title>
+    </rdf:Description>
+    <rdf:Description rdf:about="#item_6807">
+        <z:itemType>dictionaryEntry</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+               <dc:title>Osmanlıca-Türkçe Ansiklopedik Lûgat</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Ankara</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Aydın Kitabevi</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Devellioğlu</foaf:surname>
+                        <foaf:givenName>Ferit</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <prism:edition>33</prism:edition>
+        <dc:date>2017</dc:date>
+        <dc:title>isnâd</dc:title>
+    </rdf:Description>
+    <rdf:Description rdf:about="#item_6808">
+        <z:itemType>dictionaryEntry</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+               <prism:volume>4</prism:volume><dc:title>Lisânü’l-ʿArab</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Kahire</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Dârü’l-Maârif</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>İbn Manzûr</foaf:surname>
+                        <foaf:givenName>Muhammed b. Mükerrem</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>ts.</dc:date>
+        <dc:description>editorial-director: Abdullah Ali el-Kebîr</dc:description>
+        <z:numberOfVolumes>6</z:numberOfVolumes>
+        <dc:title>abd</dc:title>
+    </rdf:Description>
+    <rdf:Description rdf:about="#item_6809">
+        <z:itemType>dictionaryEntry</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Book><dc:title>An Arabic-English Lexicon</dc:title></bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Beirut</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Librairie du Liban</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lane</foaf:surname>
+                        <foaf:givenName>Edward William</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1968</dc:date>
+        <z:numberOfVolumes>8</z:numberOfVolumes>
+    </rdf:Description>
+    <rdf:Description rdf:about="#item_6810">
+        <z:itemType>dictionaryEntry</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>1</prism:volume>
+                <dc:title>Keşşâfü ıṣṭılâḥâti’l-fünûn ve’l-‘ulûm</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Beyrut</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Mektebetü Lübnan</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tehânevî</foaf:surname>
+                        <foaf:givenName>Muhammed Ali b. Ali</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1996</dc:date>
+        <dc:description>editorial-director: Ali Dahrûc
+editorial-director: Abdullah Hâlidî</dc:description>
+        <z:numberOfVolumes>2</z:numberOfVolumes>
+    </rdf:Description>
+    <rdf:Description rdf:about="#item_6811">
+        <z:itemType>dictionaryEntry</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Book><dc:title>Kelâm Terimleri Sözlüğü</dc:title></bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>İstanbul</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>İSAM Yayınları</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Topaloğlu</foaf:surname>
+                        <foaf:givenName>Bekir</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Çelebi</foaf:surname>
+                        <foaf:givenName>İlyas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <prism:edition>4</prism:edition>
+        <dc:date>2015</dc:date>
+        <dc:title>Kader</dc:title>
+    </rdf:Description>
+    <rdf:Description rdf:about="#item_6812">
+        <z:itemType>dictionaryEntry</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>1</prism:volume>
+                <dc:title>el-Aʿlâm: Ḳāmûsü terâcim</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Beyrut</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Dârü’l-İlm li’l-Melâyin</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ziriklî</foaf:surname>
+                        <foaf:givenName>Hayreddin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2002</dc:date>
+        <dc:description>editorial-director: Züheyr Fethullah</dc:description>
+        <z:numberOfVolumes>8</z:numberOfVolumes>
+        <dc:title>Ahmed Emîn</dc:title>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://lugatim.com">
+        <z:itemType>dictionaryEntry</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Book><dc:title>Kubbealtı Lugati</dc:title></bib:Book>
+        </dcterms:isPartOf>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>http://lugatim.com</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-07-11</dcterms:dateSubmitted>
+        <dc:title>İsnat-İsnad</dc:title>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://sozluk.gov.tr">
+        <z:itemType>dictionaryEntry</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Book><dc:title>Güncel Türkçe Sözlük</dc:title></bib:Book>
+        </dcterms:isPartOf>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>http://sozluk.gov.tr</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-07-08</dcterms:dateSubmitted>
+        <dc:title>Mukallit</dc:title>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://ontology.birzeit.edu">
+        <z:itemType>dictionaryEntry</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Book><dc:title>Arabic Ontology</dc:title></bib:Book>
+        </dcterms:isPartOf>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://ontology.birzeit.edu</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-08-31</dcterms:dateSubmitted>
+        <dc:title>آمن</dc:title>
+    </rdf:Description>
+    <bib:Recording rdf:about="https://www.diyanet.tv/mizan/video/mizan--58-bolum">
+        <z:itemType>tvBroadcast</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Diyanet TV</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:directors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Üçer</foaf:surname>
+                        <foaf:givenName>Cenksu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:directors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.diyanet.tv/mizan/video/mizan--58-bolum</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>06.07.2019</dc:date>
+        <dc:title>Mizan</dc:title>
+    </bib:Recording>
+    <bib:Thesis rdf:about="#item_6817">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Ankara</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Başkent Üniversitesi, Tıp Fakültesi</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bal</foaf:surname>
+                        <foaf:givenName>Ayşe Zeynep</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2014</dc:date>
+        <z:type>Tıpta Yan Dal Uzmanlık Tezi</z:type>
+        <dc:title>Kronik Böbrek Yetmezliği Hastalarında Vasküler Kalsifikasyon ve Belirteçlerinin İlişkisi ve Bu İlişkiye Etki Eden Faktörler</dc:title>
+        <z:shortTitle>Kronik Böbrek Yetmezliği Hastalarında Vasküler Kalsifikasyon</z:shortTitle>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="https://tez.yok.gov.tr/UlusalTezMerkezi">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>İstanbul</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Mimar Sinan Güzel Sanatlar Üniversitesi, Güzel Sanatlar Enstitüsü</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baydemir</foaf:surname>
+                        <foaf:givenName>Esen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://tez.yok.gov.tr/UlusalTezMerkezi</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2018</dc:date>
+        <z:type>Sanatta Yeterlik Tezi</z:type>
+        <dc:title>Berlin İslam Sanatları Müzesi'nde Bulunan Türk Halıları</dc:title>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_6819">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Chicago</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>The University of Chicago, Near Eastern Languages and Civilizations</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ceric</foaf:surname>
+                        <foaf:givenName>Mustafa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1987</dc:date>
+        <z:type>Doktora Tezi</z:type>
+        <dc:title>A Study of the Theology of Abu Mansur al-Maturidi</dc:title>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_6820">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Bursa</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Uludağ Üniversitesi, İlahiyat Fakültesi</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Demir</foaf:surname>
+                        <foaf:givenName>Abdullah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2002</dc:date>
+        <dc:description>DOI: 10.5281/zenodo.3359800</dc:description>
+        <z:type>Lisans Tezi</z:type>
+        <dc:title>Mâtürîdî Kelâm Ekolünde Nesefîler ve Ebû Hafs Ömer en-Nesefî’nin İtikâdî Görüşleri</dc:title>
+        <z:shortTitle>Mâtürîdî Kelâm Ekolünde Nesefîler</z:shortTitle>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_6821">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Sivas</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Cumhuriyet Üniversitesi, Sosyal Bilimler Enstitüsü</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Demir</foaf:surname>
+                        <foaf:givenName>Abdullah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2014</dc:date>
+        <dc:description>DOI: 10.5281/zenodo.3359806</dc:description>
+        <z:type>Doktora Tezi</z:type>
+        <dc:title>Ebû İshâk Zâhid es-Saffâr’ın Kelâm Yöntemi</dc:title>
+        <z:shortTitle>Zâhid es-Saffâr’ın Kelâm Yöntemi</z:shortTitle>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_6822">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Georgia</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Emory University</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dorroll</foaf:surname>
+                        <foaf:givenName>Philip Christopher</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2013</dc:date>
+        <z:type>Doktora Tezi</z:type>
+        <dc:title>Modern by Tradition: Abū Mansūr al-Māturīdī and the New Turkish Theology</dc:title>
+        <z:shortTitle>Modern by Tradition: Abū Mansūr al-Māturīdī</z:shortTitle>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_6823">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Sivas</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Cumhuriyet Üniversitesi, Sosyal Bilimler Enstitüsü</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eren</foaf:surname>
+                        <foaf:givenName>Recep</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2017</dc:date>
+        <z:type>Yüksek Lisans Tezi</z:type>
+        <dc:title>Mâtürîdî’nin Müteşâbih Âyetlere Yaklaşımı</dc:title>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="https://open.library.ubc.ca/ cIRcle/collections/ubctheses/831/items/1.0097774">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Canada</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>The University of British Columbia, The Faculty of Graduate Studies</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eskildsen</foaf:surname>
+                        <foaf:givenName>Stephen Edward</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://open.library.ubc.ca/ cIRcle/collections/ubctheses/831/items/1.0097774</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>1989</dc:date>
+        <z:type>Yüksek Lisans Tezi</z:type>
+        <dc:title>The Beliefs and Practices of Early Ch‘üan-Chen Taoism</dc:title>
+        <z:shortTitle>The Beliefs and Practices of Early Ch‘üan-Chen Taoism</z:shortTitle>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_6825">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Ankara</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Ankara Üniversitesi, Dil ve Tarih-Coğrafya Fakültesi</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Soysal</foaf:surname>
+                        <foaf:givenName>Özer</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1973</dc:date>
+        <z:type>Doçentlik Tezi</z:type>
+        <dc:title>Cumhuriyet Öncesi Dönem Türk Kütüphaneciliği</dc:title>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_6826">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Sivas</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Sivas Cumhuriyet Üniversitesi, Diş Hekimliği Fakültesi</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tekin</foaf:surname>
+                        <foaf:givenName>Elif</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://tez.yok.gov.tr/UlusalTezMerkezi</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2019</dc:date>
+        <z:type>Diş Hekimliği Uzmanlık Tezi</z:type>
+        <dc:title>Sivas İlinde Yaşayan 7-14 Yaş Aralığındaki Çocuklarda Dental Erozyon Prevalansının ve Etiyolojik Faktörlerin Belirlenmesi</dc:title>
+        <z:shortTitle>Sivas İlinde Yaşayan 7-14 Yaş Aralığındaki Çocuklarda Dental</z:shortTitle>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_6827">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Bolu</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Abant İzzet Baysal Üniversitesi, Tıp Fakültesi</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Uyar</foaf:surname>
+                        <foaf:givenName>Enes</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2017</dc:date>
+        <z:type>Tıpta Uzmanlık Tezi</z:type>
+        <dc:title>Sağlıklı Bireylerde Oruç Tutmanın Göz Üzerine Olan Etkilerinin Değerlendirilmesi</dc:title>
+    </bib:Thesis>
+    <bib:Recording rdf:about="https://www.youtube.com/watch?v=QwJe7fJfGYI">
+        <z:itemType>videoRecording</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>YouTube</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:directors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tarakçı</foaf:surname>
+                        <foaf:givenName>Muhammet</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:directors>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.youtube.com/watch?v=QwJe7fJfGYI</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>31.03.2018</dc:date>
+        <dcterms:dateSubmitted>2018-03-31</dcterms:dateSubmitted>
+        <dc:title>İSNAD-Kitap Bölümüne Atıf</dc:title>
+    </bib:Recording>
+    <bib:Document rdf:about="http://platform.almanhal.com">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ALMANHAL</foaf:surname>
+                        <foaf:givenName>Al Manhal eLibrary</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://platform.almanhal.com</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>authority: ALMANHAL</dc:description>
+        <dcterms:dateSubmitted>2019-07-09</dcterms:dateSubmitted>
+        <dc:title>Aranan: إسناد</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="www.davet.org.tr">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>DAVET</foaf:surname>
+                        <foaf:givenName>Dini Araştırmalar Veri Tabanı İlahiyat Atıf Dizini</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>www.davet.org.tr</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dc:description>authority: DAVET</dc:description>
+        <dcterms:dateSubmitted>2019-09-12</dcterms:dateSubmitted>
+        <dc:title>Aranan: Oruç İbadeti</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.facebook.com/seherberat/posts/10218523255423323">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Facebook</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Demir</foaf:surname>
+                        <foaf:givenName>Abdullah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.facebook.com/seherberat/posts/10218523255423323</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>issued: &quot;12 Mart 2019, 20:30&quot;</dc:description>
+        <dcterms:dateSubmitted>2019-07-12</dcterms:dateSubmitted>
+        <dc:title>İSNAD yaygınlaşıyor</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="https://kurul.diyanet.gov.tr">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>DİB</foaf:surname>
+                        <foaf:givenName>Diyanet İşleri Başkanlığı</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://kurul.diyanet.gov.tr</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>authority: DİB</dc:description>
+        <dcterms:dateSubmitted>2017-05-01</dcterms:dateSubmitted>
+        <dc:title>Din İşleri Yüksel Kurulu Başkanlığı</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="http://search.ebscohost.com">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>EBSCO</foaf:surname>
+                        <foaf:givenName>EBSCO Akademik Search Complete</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://search.ebscohost.com</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>authority: EBSCO</dc:description>
+        <dcterms:dateSubmitted>2019-04-19</dcterms:dateSubmitted>
+        <dc:title>Aranan: Mehmet Akif Ersoy</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="http://www.isnadsistemi.org">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>İSNAD</foaf:surname>
+                        <foaf:givenName>İSNAD Atıf Sistemi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.isnadsistemi.org</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>authority: İSNAD</dc:description>
+        <dcterms:dateSubmitted>2018-05-12</dcterms:dateSubmitted>
+        <dc:title>İSNAD Nedir?</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.authorea.com/users/102264/articles/124920-citation-styles-history-practice-and-future">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Authorea</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Karcher</foaf:surname>
+                        <foaf:givenName>Sebastian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zumstein</foaf:surname>
+                        <foaf:givenName>Philipp</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.authorea.com/users/102264/articles/124920-citation-styles-history-practice-and-future</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-09-18</dcterms:dateSubmitted>
+        <dc:title>Citation Styles: History, Practice, and Future</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="https://twitter.com/tcbestepe/status/1170948112367665153">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Twitter</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>T.C. CB</foaf:surname>
+                        <foaf:givenName>T.C. Cumhurbaşkanlığı</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://twitter.com/tcbestepe/status/1170948112367665153</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>authority: T.C. CB</dc:rights>
+        <dc:description>issued: &quot;8 Eylül 2019, 23:32&quot;</dc:description>
+        <dcterms:dateSubmitted>2019-09-09</dcterms:dateSubmitted>
+        <dc:title>2019-2020 eğitim öğretim yılında öğretmenlerimiz ve öğrencilerimiz … diliyoruz</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="http://apps.webofknowledge.com">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>WoS</foaf:surname>
+                        <foaf:givenName>Web of Science</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://apps.webofknowledge.com</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>WoS</dc:description>
+        <dcterms:dateSubmitted>2019-09-18</dcterms:dateSubmitted>
+        <dc:title>Aranan: Maturidism</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.yale.edu/about-yale/yale-facts">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>YU</foaf:surname>
+                        <foaf:givenName>Yale University</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.yale.edu/about-yale/yale-facts</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>authority: YU</dc:description>
+        <dcterms:dateSubmitted>2017-05-13</dcterms:dateSubmitted>
+        <dc:title>About Yale: Yale Facts</dc:title>
+    </bib:Document>
+    <bib:Data rdf:about="https://www.loc.gov/item/2003556315">
+        <z:itemType>computerProgram</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Rolla, ABD</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Muslim Student Association of UMR - Waleed A. Muhanna</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.loc.gov/item/2003556315</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>1995</dc:date>
+        <z:programmingLanguage>Yazılım</z:programmingLanguage>
+        <dc:title>Islamic calendar converter</dc:title>
+    </bib:Data>
+    <bib:Data rdf:about="https://endnote.com">
+        <z:itemType>computerProgram</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>ABD</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Clarivate Analytics</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <prism:edition>X9</prism:edition>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>https://endnote.com</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dc:date>2019</dc:date>
+        <z:programmingLanguage>Yazılım</z:programmingLanguage>
+        <dc:title>EndNote</dc:title>
+    </bib:Data>
+    <bib:Data rdf:about="#item_6841">
+        <z:itemType>computerProgram</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>ABD</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Microsoft Corporation</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <prism:edition>16.29</prism:edition>
+        <dc:date>2019</dc:date>
+        <z:programmingLanguage>Yazılım</z:programmingLanguage>
+        <dc:title>Microsoft Word</dc:title>
+    </bib:Data>
+    <rdf:Description rdf:about="#item_6843">
+        <z:itemType>encyclopediaArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>3</prism:volume>
+                <dc:title>Temel İslam Ansiklopedisi</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Ankara</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Türkiye Diyanet Vakfı Yayınları - İSAM Yayınları</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Başoğlu</foaf:surname>
+                        <foaf:givenName>Tuncay</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:pages>31-36</bib:pages>
+        <dc:date>2019</dc:date>
+        <dc:title>Felsefe</dc:title>
+    </rdf:Description>
+    <bib:Book rdf:about="#item_6882">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>İstanbul</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Kitabı Mukaddes Şirketi - Yeni Yaşam Yayınları</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <dc:date>2009</dc:date>
+        <dc:title>Kutsal Kitap: Tevrat, Zebur, İncil</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="https://www.biblegateway.com">
+        <z:itemType>book</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.biblegateway.com</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-04-10</dcterms:dateSubmitted>
+        <dc:title>The Holy Bible</dc:title>
+    </bib:Book>
+</rdf:RDF>
